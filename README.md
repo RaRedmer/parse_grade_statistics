@@ -7,7 +7,7 @@ Further, I proceeded to get meaningful insights from the data like distributions
 time series.
 
 **Disclaimer:** This project is **not** finished. The remaining PDFs will also get analysed,
-and the docx conversion will be automized.  
+and the docx conversion will be automated.  
 There is more to come!
 
 
