@@ -1,5 +1,7 @@
 # Parse grade statistics
-Purpose of this project is the extraction of tables from pdf files in order to build comprehensive 
+Purpose of this project is the extraction of tables from pdf files obtained from
+<a href="https://www.vwlpamt.uni-bonn.de/pruefungsamt/notenstatistiken">official sources</a>
+in order to build comprehensive 
 grade statistics for multiple semesters. However, the actual extraction process takes the 
 respective docx files instead. These were obtained via 
 <a href="https://smallpdf.com/de/pdf-in-word">smallpdf</a>. <br>
